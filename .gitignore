@@ -5,6 +5,7 @@
 *.Rproj
 cnv_plots/*
 plots/*
+temp/*
 manuscript/*
 input/idat/*
 functions.R
