@@ -8,4 +8,8 @@ plots/*
 temp/*
 manuscript/*
 input/idat/*
+input/nanopore/*
+input/ngs/*
+input/temp/*
 functions.R
+analysis.R

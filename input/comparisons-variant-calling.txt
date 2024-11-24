@@ -1,8 +1,0 @@
-E12_40687_Beads_dedup.bam	E12_40687_Control_dedup.bam
-E12_40687_Columns_dedup.bam	E12_40687_Control_dedup.bam
-E14_53319_Beads_dedup.bam	E14_53319_Control_dedup.bam
-E14_53319_Columns_dedup.bam	E14_53319_Control_dedup.bam
-E14_53319_Promega_dedup.bam	E14_53319_Control_dedup.bam
-E15_46004_Beads_dedup.bam	E15_46004_Control_dedup.bam
-E15_46004_Columns_dedup.bam	E15_46004_Control_dedup.bam
-E15_46004_Promega_dedup.bam	E15_46004_Control_dedup.bam

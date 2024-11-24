@@ -485,7 +485,7 @@ cf %>%
 # geom_boxplot())
 
 
-# comparison of methylation data -----------------------------------------------
+## DNA methylation data --------------------------------------------------------
 
 array_anno <- readxl::read_xlsx(path = "./input/array_annotation.xlsx")
 
@@ -590,7 +590,7 @@ betas %>%
   geom_point(alpha = 0.05, col = "darkgrey") +
   geom_abline(slope = 1, intercept = 0, colour = "black", lty = 2) +
   theme_bw(base_size = 20) +
-  labs(x = "Beta (gold standard)", y ="Beta (Beads)")
+  labs(x = "Beta (reference)", y ="Beta (beads)")
 ggsave(filename = "./plots/fig_4d.tiff", width = 6.5, height = 6.5)
 
 
