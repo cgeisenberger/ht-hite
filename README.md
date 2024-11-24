@@ -1,6 +1,9 @@
 # ht-HiTE
 All code to replicate the analysis part of the manuscript _A cost-effective and scalable approach for DNA extraction from FFPE tissues_ by Geisenberger et al. 
 
+# Data analysis
+All code used for analysis and plotting is contained in `analysis.R`. Helper functions were moved to `functions.R`.
+
 # Raw data
 Raw data for DNA methylation arrays and processed data for NGS are availbale at [figshare](http://dx.doi.org/10.6084/m9.figshare.26198033)
 
